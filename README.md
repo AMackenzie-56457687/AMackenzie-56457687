@@ -1,4 +1,12 @@
-## Hi there 👋
+## Alexander Mackenzie
+
+I'm a BEng Engineering student at the University of York.
+
+Alongside my degree, I work on programming and engineering projects for both fun and for my course/learning.
+
+I often code mandebrot genorators as a starting point when learning a new language, as i find it fun and i feel it covers alot while being quite quick, so ill probably upload alot of that kind of thing
+
+But overall what ive done so far range from code for robotics uni projects to data analysis, and graphical stuff.
 
 <!--
 **AMackenzie-56457687/AMackenzie-56457687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
