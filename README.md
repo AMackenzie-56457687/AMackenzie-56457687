@@ -8,6 +8,14 @@ I often code Mandelbrot generators as a starting point when learning a new langu
 
 Overall, what I’ve done so far ranges from code for university robotics projects to data analysis and graphical stuff.
 
+### Main Tools & Languages
+- Python
+- Julia
+- C/C++
+- VS Code
+- Visual Studio
+- Notepad
+
 <!--
 **AMackenzie-56457687/AMackenzie-56457687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
