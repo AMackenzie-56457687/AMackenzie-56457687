@@ -6,7 +6,7 @@ Alongside my degree, I work on programming and engineering projects both for fun
 
 I often code Mandelbrot generators as a starting point when learning a new language, as I find it fun and feel it covers a lot while being quite quick, so I’ll probably upload a lot of that kind of thing.
 
-Overall, what I’ve done so far ranges from code for university robotics projects to data analysis and graphical work.
+Overall, what I’ve done so far ranges from code for university robotics projects to data analysis and graphical stuff.
 
 <!--
 **AMackenzie-56457687/AMackenzie-56457687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
