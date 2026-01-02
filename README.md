@@ -2,11 +2,11 @@
 
 I'm a BEng Engineering student at the University of York.
 
-Alongside my degree, I work on programming and engineering projects for both fun and for my course/learning.
+Alongside my degree, I work on programming and engineering projects both for fun and as part of my course.
 
-I often code mandebrot genorators as a starting point when learning a new language, as i find it fun and i feel it covers alot while being quite quick, so ill probably upload alot of that kind of thing
+I often code Mandelbrot generators as a starting point when learning a new language, as I find it fun and feel it covers a lot while being quite quick, so I’ll probably upload a lot of that kind of thing.
 
-But overall what ive done so far range from code for robotics uni projects to data analysis, and graphical stuff.
+Overall, what I’ve done so far ranges from code for university robotics projects to data analysis and graphical work.
 
 <!--
 **AMackenzie-56457687/AMackenzie-56457687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
